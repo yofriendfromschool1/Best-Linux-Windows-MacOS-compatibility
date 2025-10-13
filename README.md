@@ -19,6 +19,8 @@ https://www.winboat.app/
 https://usebottles.com/
 # Winapps
 https://github.com/Fmstrat/winapps https://github.com/winapps-org/winapps
+# Heroic Games Launcher
+https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 # VMS
 Virtualbox, KVM, VMWare
 # Dual Boot
