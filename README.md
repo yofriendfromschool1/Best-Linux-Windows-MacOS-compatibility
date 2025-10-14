@@ -21,6 +21,8 @@ https://usebottles.com/
 https://github.com/Fmstrat/winapps https://github.com/winapps-org/winapps
 # Heroic Games Launcher
 https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+# PlayOnLinux (POL)
+https://www.playonlinux.com/en/
 # VMS
 Virtualbox, KVM, VMWare
 # Dual Boot
