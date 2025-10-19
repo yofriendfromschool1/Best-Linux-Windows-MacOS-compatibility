@@ -1,4 +1,4 @@
-# Best-Linux-Windows-compatibility
+# Best-Linux-Windows-MacOS-compatibility
 Best ways to get Windows applications working on Linux
 # Wine
 https://gitlab.winehq.org/wine/wine/-/wikis/Download
@@ -23,6 +23,8 @@ https://github.com/Fmstrat/winapps https://github.com/winapps-org/winapps
 https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 # PlayOnLinux (POL)
 https://www.playonlinux.com/en/
+# Darling
+https://www.darlinghq.org/
 # VMS
 Virtualbox, KVM, VMWare
 # Dual Boot
