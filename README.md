@@ -28,3 +28,11 @@ https://www.darlinghq.org/
 # VMS
 Virtualbox, KVM, VMWare
 # Dual Boot
+
+# Now for MacOS
+- Windows apps on MacOS
+
+# PlayOnMac (POM)
+- https://www.playonmac.com/
+# Whisky
+- https://getwhisky.app/ https://github.com/ybmeng/moonshine
