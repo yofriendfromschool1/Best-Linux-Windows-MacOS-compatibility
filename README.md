@@ -38,3 +38,5 @@ Virtualbox, KVM, VMWare
 - https://www.playonmac.com/
 # Whisky
 - https://getwhisky.app/ https://github.com/ybmeng/moonshine
+# Parallels Desktop (paid but just pirate)
+- https://www.parallels.com/products/desktop/?
