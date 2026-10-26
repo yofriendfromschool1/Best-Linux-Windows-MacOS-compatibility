@@ -32,6 +32,8 @@ Virtualbox, KVM, VMWare
 # Now for MacOS
 - Windows apps on MacOS
 
+# Crossover
+- https://www.codeweavers.com/crossover/
 # PlayOnMac (POM)
 - https://www.playonmac.com/
 # Whisky
