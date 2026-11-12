@@ -86,6 +86,7 @@ Consider it if you need Windows for work, gaming, or hardware-specific software.
 | **CrossOver** | Commercial Wine-based solution with strong app compatibility and official support (paid, free trial, 1337x). | [codeweavers.com](https://www.codeweavers.com/crossover/) |
 | **Whisky** | Modern, user-friendly Wine wrapper for macOS built on Wine and Apple's Game Porting Toolkit (free, open source). | [getwhisky.app](https://getwhisky.app/) · [GitHub mirror](https://github.com/ybmeng/moonshine) |
 | **PlayOnMac (POM)** | Wine-based launcher for Windows games and apps, similar to PlayOnLinux. | [playonmac.com](https://www.playonmac.com/) |
+| **Pixel Port** | Play windows games steams on mac | [pixelport.gg](https://pixelport.gg/) |
 | **Highball** | Lightweight Wine frontend for Apple Silicon Macs. | [gethighball.com](https://gethighball.com/) |
 | **Parallels Desktop** | The most seamless macOS VM solution — runs Windows 11 (including ARM builds) with near-native performance (paid). | [parallels.com](https://www.parallels.com/products/desktop/) |
 | **UTM** | Free, open-source QEMU-based VM manager for macOS — great for Windows/Linux VMs on Apple Silicon. | [mac.getutm.app](https://mac.getutm.app/) |
